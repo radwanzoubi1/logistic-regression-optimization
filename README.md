@@ -1,6 +1,6 @@
 # Logistic Regression Optimization
 
-This project implements logistic regression from scratch and optimizes it for multi-class classification tasks using the Obesity Dataset. The primary goal is to compare the custom implementation's performance against scikit-learn’s built-in logistic regression model. Additionally, the project explores advanced optimization techniques, regularization methods, and performance evaluation to provide insights into logistic regression's applicability and effectiveness in real-world scenarios.
+This project implements logistic regression from scratch and optimizes it for multi-class classification tasks using the Obesity Dataset. The primary goal is to predict obesity levels and compare the custom implementation's performance against scikit-learn’s built-in logistic regression model. Additionally, the project explores advanced optimization techniques, regularization methods, and performance evaluation to provide insights into logistic regression's applicability and effectiveness in real-world scenarios.
 
 ---
 
